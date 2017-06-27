@@ -9,7 +9,7 @@ This project aims to to identify the lane boundaries in a video.
 
 The code is stored in a [Jupyter Notebook](http://jupyter.org/) and requires **Python 3.5**. Please refer to the [project website](https://github.com/udacity/CarND-Behavioral-Cloning-P3) for implementation details. 
 
-This [video](https://vimeo.com/207707140) contains the outcome of this project together with the results of the _Vehicle Detection-and-Tracking_ project. 
+This [video](https://vimeo.com/207707140) contains the outcome of this project - together with the results of the _Vehicle Detection-and-Tracking_ project. 
 
 
 ## The Advanced Lane Finding Project
