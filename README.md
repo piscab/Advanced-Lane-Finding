@@ -30,7 +30,7 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/5
 ---
 ### Camera Calibration
 
->#1. _Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image._  
+>_Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image._  
 
 The code for this step is contained in the cells in the **Paragraph 1** of the IPython notebook located in "./example.ipynb".    
 
@@ -123,7 +123,7 @@ I implemented this step in **Paragraph 7** with the `back_warp_image()` function
 ---
 ### Pipeline (video)
 
->#1. _Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)._
+>_Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)._
 
 Please, see this [video](https://vimeo.com/207707140).
 
@@ -131,7 +131,7 @@ Please, see this [video](https://vimeo.com/207707140).
 
 ### Discussion
 
->#1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
+>Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
 Advanced line finding is quite complex and there are a lot of micro-issues to solve.
  
