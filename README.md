@@ -125,20 +125,19 @@ I implemented this step in **Paragraph 7** with the `back_warp_image()` function
 
 >#1. _Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!)._
 
-Please refer to the video in `my_project_video_x.mp4`.
+Please, see this [video](https://vimeo.com/207707140).
 
---
+---
 
 ### Discussion
 
 >#1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
 Advanced line finding is quite complex and there are a lot of micro-issues to solve.
-
-Few passages are non completely clear yet, at least to me. 
+ 
 Is the polynomial with degree two accurate anough, how to get satisfied in finding parallel lines, can you simply averaging the polynomial coefficient, can you derive meters conversion from pixels via maths without simulating points, how long should be the memory of our Line class instances, how to clear the shadow of the trees (on the lane), can you forecast missing lines with neural networks ... ?
 
-There is no unique answer to all these questions, and the "can I do better?" approach is still pending on my results. 
+There is no unique answer to all these questions. 
 
  
 
